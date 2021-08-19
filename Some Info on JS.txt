@@ -1,0 +1,11 @@
+1. it was developed in 1995 by Brendon eich. 
+2.He built it only 10 days span.
+3.Official name of JavaScript in ECMAscript.
+
+4.We can use script tag in head and body of a html file.
+
+5. Writing script tag below in the code will boost the performance of the file.
+// because compiler run through line by line.So <script> tag is found upper side of the code 
+it will slow down the performance (or compile time will be increased)
+
+6.
